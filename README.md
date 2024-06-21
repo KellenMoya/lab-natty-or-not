@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Uso de Funções Assíncronas no JavaScript
 
 ## 📒 Descrição
 Desenvolvimento de um ebook, com apoio de IA e revisão humana, sobre o tema Funções Assincronas no Javascript.
