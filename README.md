@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Desenvolvimento de um ebook, com apoio de IA e revisão humana, sobre o tema Funções Assincronas no Javascript.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT - Prompts e geração de conteúdo.
+Gamma APP - Diagramação e organização de conteudo.
+Lexica.Art - Imagens e conteúdo visual.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizando o ChatGPT, foi criado um prompt para geração de conteúdo sobre o tema abordado. Com os topicos selecionados, e utilizando o Gamma.APP, realizei a geração dos cards para diagramação e conteúdo.
+A partir dai, foi aplicada uma diagramação no conteúdo e adicionado algumas imagens geradas utilizando a ferramenta Lexica.art.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado, temos um ebook com conteúdo bem explicativo e em lingaugem simplificada, para explicar o tema Funções Assincronas para Javasript, de uma forma que abordamos uma visão geral de pontos positivos e formas corretas de se utilizar no dia-dia.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[Link para E-BOOK](ebook-funcos-assincronas.pdf)
